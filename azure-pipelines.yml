@@ -6,7 +6,7 @@ trigger:
   branches:
     include:
     - azure-prod
-    - azure-dev
+    - azure-dev-teste
     - hml-teste
 resources:
 - repo: self
