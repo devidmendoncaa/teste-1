@@ -7,7 +7,7 @@ trigger:
     include:
     - azure-prod
     - azure-dev
-    - hml
+    - hml-teste
 resources:
 - repo: self
 
